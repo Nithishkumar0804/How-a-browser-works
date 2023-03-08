@@ -1,0 +1,12 @@
+How a browser works:
+A browser works as a client browser.
+The browser seeks for the URL,the url contains the scheme,domain name,port..etc.when we request a data in browser it first checks for the url.
+The html contains the content,stucture and the urls of the particular web page.
+
+
+what happens:
+First it gets the hypertext url by get method.
+And the request are received from the server.
+The server find the file or resources form the system of the particular url.
+And the data is send back to the url.
+The browser displays the information.
